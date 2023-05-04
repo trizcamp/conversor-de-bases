@@ -15,8 +15,9 @@ Projeto feito na faculdade Cruzeiro do Sul em um trabalho em grupo
 Este projeto interdisciplinar teve como objetivo fazer uma calculadora de conversões binárias, porém, tivemos obstáculos iminentes, como: Fazer as tabelas, entender mais a fundo sobre estrutura While, e também achar uma solução para dígitos incorretos do binário, para caso o usuário digitasse letras, ao invés de números. Por sorte tivemos ajuda com o site do próprio python.org, sendo assim fazendo um código limpo e “entendível”, para quem fosse visualizar o código fonte. Utilizamos algumas das artimanhas de programadores, de assistir alguns tutoriais de como fazer tais funções, e pesquisar mais afundo sobre o projeto, olhando alguns modelos, escopos e etc, tivemos um pouco de dificuldade de achar projetos limpos, pois achávamos códigos com linhas extremas e If’s desnecessários.
 
 ## Redes Sociais
-colaboradores do projeto
-[Instagram](https://www.instagram.com/leozuzi/)
-[Instagram](https://www.instagram.com/guima____/)
-[Instagram](https://www.instagram.com/victor_hugo1337/)
-[Instagram](https://www.instagram.com/fabrnunes_/)
+colaboradores do projeto:
+[Leo Zuzi](https://www.instagram.com/leozuzi/)
+[Guima](https://www.instagram.com/guima____/)
+[Victor Hugo](https://www.instagram.com/victor_hugo1337/)
+[Fabricio](https://www.instagram.com/fabrnunes_/)
+[Triz Camp](https://www.instagram.com/trizzcamp/)
