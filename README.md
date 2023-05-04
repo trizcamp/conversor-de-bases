@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Conversor de Bases Python
 Projeto feito na faculdade Cruzeiro do Sul em um trabalho em grupo 
-<img  src="captura1.jpg" width: 200px>
+<img  src="captura1" width: 200px>
 # tecnologia usada
 🐍 Python
 
