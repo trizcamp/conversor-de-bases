@@ -22,5 +22,5 @@ colaboradores do projeto:
 [insta Leo Zuzi](https://www.instagram.com/leozuzi/) |
 [insta Guima](https://www.instagram.com/guima____/) |
 [GitHub Victor Hugo](https://github.com/victorhugofa) |
-[insta Fabricio](https://www.instagram.com/fabrnunes_/) |
-[insta Beatriz](https://www.instagram.com/trizzcamp/) |
+[insta Fabricio Nunes](https://www.instagram.com/fabrnunes_/) |
+[insta Beatriz Felix](https://www.instagram.com/trizzcamp/) |
