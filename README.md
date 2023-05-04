@@ -7,11 +7,11 @@ Projeto feito na faculdade Cruzeiro do Sul em um trabalho em grupo
 ## O que o programa faz
 + Apresenta para o usuário um menu que mostra as opções de conversão de binário para hexadecimal, octal e decimal. 
 + O programa pega o valor binario digitado pelo usuario e consegue converter para as bases hexadecimal, octal e decimal
-<p align:center>
-    <img  src="captura1.png" width:200 title="terminal programa">
+<p align:center width:200>
+    <img  src="captura1.png" title="terminal programa">
 </p>
-<p align:center>
-    <img  src="resultado.png" width:200 title="terminal programa">
+<p align:center width:200>
+    <img  src="resultado.png" title="terminal programa">
 </p>
 
 ## Desafios Enfrentados
