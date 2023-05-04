@@ -20,4 +20,4 @@ colaboradores do projeto:
 [Guima](https://www.instagram.com/guima____/) |
 [Victor Hugo](https://www.instagram.com/victor_hugo1337/) |
 [Fabricio](https://www.instagram.com/fabrnunes_/) |
-[Triz Camp](https://www.instagram.com/trizzcamp/) |
+[Beatriz Felix](https://www.instagram.com/trizzcamp/) |
