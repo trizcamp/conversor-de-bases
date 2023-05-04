@@ -16,8 +16,8 @@ Este projeto interdisciplinar teve como objetivo fazer uma calculadora de conver
 
 ## Redes Sociais
 colaboradores do projeto:
-[Leo Zuzi](https://www.instagram.com/leozuzi/) |
-[Guima](https://www.instagram.com/guima____/) |
+[insta Leo Zuzi](https://www.instagram.com/leozuzi/) |
+[insta Guima](https://www.instagram.com/guima____/) |
 [GitHub Victor Hugo](https://github.com/victorhugofa) |
-[Fabricio](https://www.instagram.com/fabrnunes_/) |
-[Beatriz Felix](https://www.instagram.com/trizzcamp/) |
+[insta Fabricio](https://www.instagram.com/fabrnunes_/) |
+[insta Beatriz](https://www.instagram.com/trizzcamp/) |
