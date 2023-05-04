@@ -1,6 +1,6 @@
 # Conversor de Bases Python
 Projeto feito na faculdade Cruzeiro do Sul em um trabalho em grupo 
-<p align: center>
+<p align:center>
     <img  src="captura1.png" width: 200 title="terminal programa">
 </p>
 # tecnologia usada
