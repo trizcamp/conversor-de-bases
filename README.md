@@ -18,6 +18,6 @@ Este projeto interdisciplinar teve como objetivo fazer uma calculadora de conver
 colaboradores do projeto:
 [Leo Zuzi](https://www.instagram.com/leozuzi/) |
 [Guima](https://www.instagram.com/guima____/) |
-[Victor Hugo](https://www.instagram.com/victor_hugo1337/) |
+[GitHub Victor Hugo](https://github.com/victorhugofa) |
 [Fabricio](https://www.instagram.com/fabrnunes_/) |
 [Beatriz Felix](https://www.instagram.com/trizzcamp/) |
